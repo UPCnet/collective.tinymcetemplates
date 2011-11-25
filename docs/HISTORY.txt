@@ -1,10 +1,11 @@
 Changelog
 =========
 
-unreleased
-----------
+1.0b4 - 2011-11-25
+------------------
 
 * Fixed Plone 3 compatibility in some imports. [sneridagh]
+* Avoid onresize event, due to an infinite-loop-bug in IE*
 
 1.0b3 - 2010-07-31
 ------------------
